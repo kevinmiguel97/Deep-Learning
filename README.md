@@ -1,2 +1,2 @@
 # Deep-Learning
-Courses from the deep learning plan
+Courses from the deep learning plan.
